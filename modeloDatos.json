@@ -1,0 +1,24 @@
+{
+  "factura": {
+    "numFactura": "",
+    "fechaFactura": "",
+    "estado": "",
+    "cliente": {
+      "id": "",
+      "nombre": "",
+      "apellido": "",
+      "genero": "",
+      "fechaNacimiento": "",
+      "estadoCivil": ""
+    },
+    "items": {
+      "id": "",
+      "descripcion": "",
+      "valorUnidad": "",
+      "tipoItem": {
+        "idDescripcion": "",
+        "descripcion": ""
+      }
+    }
+  }
+}
